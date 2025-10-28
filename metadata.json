@@ -1,12 +1,8 @@
 {
+  "task": "binary_intrusion_detection",
   "class_names": [
-    "Bots",
-    "Brute Force",
-    "DDoS",
-    "DoS",
-    "Normal Traffic",
-    "Port Scanning",
-    "Web Attacks"
+    "Normal",
+    "Attack"
   ],
   "features": [
     "Destination Port",
